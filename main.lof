@@ -1,0 +1,29 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces User's Flowchart}}{15}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Creator's Flowchart}}{17}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces User's Use Case Diagram}}{18}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Creator's Use Case Diagram}}{19}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Admin's Use Case Diagram}}{20}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces User's Sequence Diagram}}{21}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Admin's Sequence Diagram}}{22}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Creator's Sequence Diagram}}{23}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Whole System Sequence Diagram}}{24}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces System Architecture Diagram}}{26}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Entity Relationship (ER) Diagram}}{27}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Data Flow Diagram --- Level 0 (Context Diagram)}}{28}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Data Flow Diagram --- Level 2}}{30}{figure.caption.20}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces NepTube Home Page --- Video Browsing Interface}}{35}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Video Player with Playback Controls and Social Features}}{36}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Creator Dashboard with Analytics and Video Management}}{37}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Admin Dashboard with Moderation and Analytics Tools}}{37}{figure.caption.24}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces NepTube homepage showing video grid layout with AI-enhanced thumbnails and sidebar navigation}}{47}{figure.caption.27}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Custom video player with AI-generated chapters, subtitles, and interactive controls}}{48}{figure.caption.28}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Creator studio showing analytics overview, video management, and AI content suggestions}}{49}{figure.caption.29}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Admin moderation panel with AI toxicity scores and category classifications}}{49}{figure.caption.30}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Four-tier premium subscription with Nepali and international payment options}}{50}{figure.caption.31}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Community posts with polls, reactions, and AI-moderated comments}}{51}{figure.caption.32}%
